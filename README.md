@@ -1,2 +1,0 @@
-# CCuenta
-First repository
